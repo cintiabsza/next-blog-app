@@ -1,0 +1,56 @@
+
+.categoryList{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: start;
+	gap: 40px;
+	margin-top: 35px;
+	margin-bottom: 60px;
+}
+
+.item{
+	display: flex;
+	align-items: center;
+}
+
+.categoryItem{
+	border-radius: 5px;
+	width: 90px;
+	padding: 8px;
+	font-size: 14px;
+	justify-content: center;
+	text-align: center;	
+}
+
+.categoryItem.style{
+	background-color:#57c4ff31;
+}
+
+.categoryItem.travel{
+	background-color: #da85c731;
+}
+
+.categoryItem.culture{
+	background-color: #7fb88133;
+}
+
+.categoryItem.food{
+	background-color: #ff795736;
+}
+
+.categoryItem.fashion{
+	background-color: #ffb04f45;
+}
+
+.categoryItem.coding{
+	background-color: #5e4fff31;
+}
+
+
+@media screen and (max-width: 1280px) {
+	.categoryItem{
+		font-size: 13px;
+	}
+}

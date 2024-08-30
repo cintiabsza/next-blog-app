@@ -1,0 +1,16 @@
+.container{
+	display: flex;
+	justify-content: space-between;
+	gap: 80px;
+	margin-top: 40px;
+}
+
+.button{
+	width: 100px;
+	height: 30px;
+	margin-top: 20px;
+	border-radius: 10px;
+	border: none;
+	background-color: rgb(206, 224, 223);
+	cursor: pointer;
+}
