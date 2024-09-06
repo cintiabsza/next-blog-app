@@ -1,28 +1,27 @@
 # React Food Delivery App
 
-## What this application does:
+## What this application does
 
 This is a responsive blog. The application works both web or mobile and has a dark mode.
 
 You can check the aplication <a href=" ">here 
 
-## What I've learned: 
+## What I learned
 
 
 Through this project, I explored the benefits of using Next.js for building applications. I also learned about server-side and client-side rendering.
 
 Key topics learned with this project include:
--The structure of Next.js folders and files, including route creation and the concept of the layout file.
--Key Next.js components, particularly the Link and Image components.
--How to create client components and when to use them.
--Implementing dark mode by studying the Context component, which is used to share dark and light mode states across the entire application.
+* The structure of Next.js folders and files, including route creation and the concept of the layout file.
+* Key Next.js components, particularly the Link and Image components.
+* How to create client components and when to use them.
+* Implementing dark mode by studying the Context component, which is used to share dark and light mode states across the entire application.
 
-## What I've changed from the original project:
+## What I've changed from the original project
 
-* design -
 In order to improve the layout of this project, I made a few changes, such as adding border radius to images and using different colors for buttons and titles.
 
-## Credits:
+## Credits
 
 The original version of this project was developed by <a href="https://github.com/safak"> @safak. 
 
