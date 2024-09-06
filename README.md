@@ -1,8 +1,8 @@
-# React Food Delivery App
+# Next Blog App
 
 ## What this application does
 
-This is a responsive blog. The application works both web or mobile and has a dark mode.
+This is a responsive blog. The application works both web or mobile and has a dark-light mode.
 
 You can check the aplication <a href=" ">here 
 
